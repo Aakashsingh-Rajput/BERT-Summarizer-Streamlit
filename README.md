@@ -18,12 +18,6 @@ A simple and powerful web app built with **Streamlit** and a **pre-trained BERT 
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot here (optional)
-
----
-
 ## 🧰 Tech Stack
 
 - [Streamlit](https://streamlit.io/)
